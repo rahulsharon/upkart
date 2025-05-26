@@ -1,0 +1,17 @@
+.home {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+      90deg,
+      rgba(131, 58, 180, 1) 0%,
+      rgba(253, 29, 29, 1) 50%,
+      rgba(252, 176, 69, 1) 100%
+    );
+    background-image: url('C:\Users\91877\upkart3\public\home11.jpg');
+    /* You can use 'url()' with the path to your image file */
+  
+    /* Additional background properties for positioning and size */
+    background-repeat: no-repeat;
+    background-size: cover; /* or 'contain' if you want to scale the image differently */
+    background-position: center center;
+  }
+  
